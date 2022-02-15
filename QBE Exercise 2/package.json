@@ -1,0 +1,19 @@
+{
+  "name": "qbe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PatternTask.js",
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/style": "^0.8.0",
+    "@mui/material": "^5.4.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
